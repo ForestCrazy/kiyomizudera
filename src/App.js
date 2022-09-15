@@ -14,7 +14,7 @@ import './scss.sass';
 
 function App() {
   return (
-    <Router>
+    <Router basename={window.location.pathname || ''}>
       <Routes>
         <Route exact path="/" element={<Home />}></Route>
         <Route path="/pray" element={<Pray />}></Route>
