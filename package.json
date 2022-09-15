@@ -1,7 +1,7 @@
 {
   "name": "kiyomizudera",
-  "version": "0.1.2",
-  "homepage": "https://forestcrazy.github.io/kiyomizudera-clone",
+  "version": "0.1.0",
+  "homepage": "https://forestcrazy.github.io/kiyomizudera",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
