@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/kiyomizudera/static/css/main.943250bf.css",
+    "main.js": "/kiyomizudera/static/js/main.850cea94.js",
+    "static/js/787.91265bac.chunk.js": "/kiyomizudera/static/js/787.91265bac.chunk.js",
+    "static/media/pray_pc.gif": "/kiyomizudera/static/media/pray_pc.ccd4b4dd85958987ac7d.gif",
+    "static/media/top_pc_05.webp": "/kiyomizudera/static/media/top_pc_05.69ea1133a8c2d2ad0e62.webp",
+    "static/media/top_pc_03.webp": "/kiyomizudera/static/media/top_pc_03.894c7febf4c7a6b6f157.webp",
+    "static/media/top_pc_01.webp": "/kiyomizudera/static/media/top_pc_01.96c00f354087beb7e5e0.webp",
+    "static/media/pic_pray.webp": "/kiyomizudera/static/media/pic_pray.8825a7e835ebef79a733.webp",
+    "static/media/top_pc_02.webp": "/kiyomizudera/static/media/top_pc_02.f250ad9386cf58e441d1.webp",
+    "static/media/pic_visit.webp": "/kiyomizudera/static/media/pic_visit.531f349125845a9df9d1.webp",
+    "static/media/bg_02.png": "/kiyomizudera/static/media/bg_02.814aab0e9c2c128e1736.png",
+    "static/media/pic_learn.webp": "/kiyomizudera/static/media/pic_learn.97e4a4f13463c0bd493f.webp",
+    "static/media/pray_pc_2.webp": "/kiyomizudera/static/media/pray_pc_2.f22652846ec57831d0fa.webp",
+    "static/media/top_pc_04.webp": "/kiyomizudera/static/media/top_pc_04.235223eb8aa4c6861fd1.webp",
+    "static/media/pic_pray_01.webp": "/kiyomizudera/static/media/pic_pray_01.01a931da99e7fcb50963.webp",
+    "static/media/pic_location.webp": "/kiyomizudera/static/media/pic_location.17da39aed7eb0720e0cf.webp",
+    "static/media/top_pc_06.webp": "/kiyomizudera/static/media/top_pc_06.ec2b50b37f2e3a542fa1.webp",
+    "static/media/event_bnr.webp": "/kiyomizudera/static/media/event_bnr.d7d89a6782c7c555205c.webp",
+    "static/media/logo_pc_w.svg": "/kiyomizudera/static/media/logo_pc_w.ab4e5585d7c55287a85416c454ce3133.svg",
+    "static/media/logo_pc_b.svg": "/kiyomizudera/static/media/logo_pc_b.17b923eb50eb40fd9efb1cecc3cc2bc3.svg",
+    "static/media/pray_step_1_02.webp": "/kiyomizudera/static/media/pray_step_1_02.00f2ebf8f22bbfa2dd95.webp",
+    "static/media/pray_step_1_01.webp": "/kiyomizudera/static/media/pray_step_1_01.aef3412cc61558aff915.webp",
+    "static/media/pray_step_1_04.webp": "/kiyomizudera/static/media/pray_step_1_04.aef3412cc61558aff915.webp",
+    "static/media/pray_step_1_03.webp": "/kiyomizudera/static/media/pray_step_1_03.e81cc2492df779b23c81.webp",
+    "static/media/pray_step_1_05.webp": "/kiyomizudera/static/media/pray_step_1_05.95e8e8a69be5a05e3a9b.webp",
+    "index.html": "/kiyomizudera/index.html",
+    "main.943250bf.css.map": "/kiyomizudera/static/css/main.943250bf.css.map",
+    "main.850cea94.js.map": "/kiyomizudera/static/js/main.850cea94.js.map",
+    "787.91265bac.chunk.js.map": "/kiyomizudera/static/js/787.91265bac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.943250bf.css",
+    "static/js/main.850cea94.js"
+  ]
+}
