@@ -1,0 +1,59 @@
+#firstSection {
+  animation: imageAnimation 30s linear infinite 0s;
+  animation-timing-function: ease-in-out;
+  backface-visibility: hidden;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  background-image: url("./asset/pic/top_pc_01.webp");
+  translate: 0 -3.7rem;
+}
+
+#fifthSection {
+  padding: 12rem 0;
+}
+
+#fifthSection > div {
+  background-image: url("./asset/pic/event_bnr.webp");
+  background-size: cover;
+}
+
+@keyframes imageAnimation {
+  0% {
+    background-image: url("./asset/pic/top_pc_01.webp");
+  }
+  20% {
+    background-image: url("./asset/pic/top_pc_02.webp");
+  }
+  40% {
+    background-image: url("./asset/pic/top_pc_03.webp");
+  }
+  60% {
+    background-image: url("./asset/pic/top_pc_04.webp");
+  }
+  80% {
+    background-image: url("./asset/pic/top_pc_05.webp");
+  }
+  100% {
+    background-image: url("./asset/pic/top_pc_06.webp");
+  }
+}
+
+.new-list {
+  font-size: 0.8rem;
+}
+
+#secondSection {
+  padding: 3rem 0;
+}
+
+#exploreKannon, #toPrayKannon {
+  padding-top: 6rem;
+}
+
+#wordCardKannon {
+  background-image: url("./asset/pic/bg_02.png");
+  background-repeat: repeat;
+}

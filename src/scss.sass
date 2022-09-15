@@ -1,0 +1,93 @@
+$small: 576px
+$medium: 768px
+$large: 992px
+$extra: 1200px
+
+.contentSection
+    color: white !important
+
+#contentPray
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), no-repeat, url("./asset/pic/pic_pray.webp") !important
+    background-size: cover !important
+    background-position: center center !important
+
+#contentVisit
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), no-repeat, url("./asset/pic/pic_visit.webp") !important
+    background-size: cover !important
+    background-position: center center !important
+
+#contentLearn
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), no-repeat, url("./asset/pic/pic_learn.webp") !important
+    background-size: cover !important
+    background-position: center center !important
+
+#contentLocation
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), no-repeat, url("./asset/pic/pic_location.webp") !important
+    background-size: cover !important
+    background-position: center center !important
+
+.left-section-content
+    padding-top: 1rem !important
+    padding-left: 2rem !important
+
+#prayBanner
+    background-image: url("./asset/pic/pray_pc.gif")
+    background-size: cover
+    background-position: center center
+    translate: 0 -3.7rem
+
+#prayBanner2
+    background-image: url("./asset/pic/pray_pc_2.webp")
+    background-size: cover
+    background-position: center center
+
+@media (min-width: $small)
+
+@media (min-width: $medium)
+    .contentSection
+        height: 340px
+        color: #000 !important
+        background-size: cover !important
+        background-position: center center !important
+        transition: opacity .6s ease-out
+
+    .contentSection:hover
+        color: white !important
+        background-size: cover !important
+        background-position: center center !important
+        background-repeat: no-repeat !important
+
+    div[id='contentPray'] .right-section-content
+        background-image: url("./asset/pic/pic_pray.webp") !important
+
+    div[id='contentVisit'] .right-section-content
+        background-image: url("./asset/pic/pic_visit.webp") !important
+
+    div[id='contentLearn'] .right-section-content
+        background-image: url("./asset/pic/pic_learn.webp") !important
+
+    div[id='contentLocation'] .right-section-content
+        background-image: url("./asset/pic/pic_location.webp") !important
+
+    .right-section-content
+        background-size: cover !important
+        background-position: center center !important
+        background-repeat: no-repeat !important
+
+    .contentSection:hover .right-section-content:not(.reverse-section-content)
+        display: none
+
+    .contentSection[id^='content']:hover .right-section-content.reverse-section-content
+        background-image: unset !important
+
+    .left-section-content
+        background-color: #fff !important
+        padding-top: 1rem !important
+        padding-left: 3rem !important
+
+    .contentSection:hover .left-section-content
+        background-color: transparent !important
+
+@media (min-width: $large)
+
+@media (min-width: $extra)
