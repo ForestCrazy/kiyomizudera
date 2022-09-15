@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kiyomizudera/static/css/main.2f2fa7e9.css",
-    "main.js": "/kiyomizudera/static/js/main.850cea94.js",
+    "main.js": "/kiyomizudera/static/js/main.acfbf00d.js",
     "static/js/787.91265bac.chunk.js": "/kiyomizudera/static/js/787.91265bac.chunk.js",
     "static/media/pray_pc.gif": "/kiyomizudera/static/media/pray_pc.ccd4b4dd85958987ac7d.gif",
     "static/media/top_pc_05.webp": "/kiyomizudera/static/media/top_pc_05.69ea1133a8c2d2ad0e62.webp",
@@ -27,11 +27,11 @@
     "static/media/pray_step_1_05.webp": "/kiyomizudera/static/media/pray_step_1_05.95e8e8a69be5a05e3a9b.webp",
     "index.html": "/kiyomizudera/index.html",
     "main.2f2fa7e9.css.map": "/kiyomizudera/static/css/main.2f2fa7e9.css.map",
-    "main.850cea94.js.map": "/kiyomizudera/static/js/main.850cea94.js.map",
+    "main.acfbf00d.js.map": "/kiyomizudera/static/js/main.acfbf00d.js.map",
     "787.91265bac.chunk.js.map": "/kiyomizudera/static/js/787.91265bac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f2fa7e9.css",
-    "static/js/main.850cea94.js"
+    "static/js/main.acfbf00d.js"
   ]
 }
